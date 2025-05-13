@@ -1,0 +1,555 @@
+Brand Name,Grain Type,Price per Bag (Naira),City,Country,Customer Rating,Number of Reviews,Month Sold,Units Sold,Revenue,Is_Premium_Grain,Quarter Sold,Log_Units_Sold,Brand_City
+Tommy Tasty,Basmati,12870.72,Kumasi,Ghana,2,137,December,969,12471727.68,1,Q4,6.877296071497429,Tommy Tasty_Kumasi
+Royal Stallion,Long Grain,9771.94,Accra,Ghana,2,298,September,230,2247546.2,0,Q3,5.442417710521793,Royal Stallion_Accra
+Caprice,Long Grain,15698.12,Lagos,Nigeria,2,200,April,509,7990343.08,0,Q2,6.234410725718371,Caprice_Lagos
+Caprice,Basmati,12591.07,Kumasi,Ghana,3,257,April,364,4583149.4799999995,1,Q2,5.8998973535824915,Caprice_Kumasi
+Sunshine,Basmati,15636.29,Kumasi,Ghana,2,219,August,351,5488337.79,1,Q3,5.863631175598097,Sunshine_Kumasi
+Golden Harvest,Long Grain,15584.264000000001,Accra,Ghana,3,18,January,768,11968714.752,0,Q1,6.645090969505644,Golden Harvest_Accra
+Sunshine,Long Grain,23776.28,Abuja,Nigeria,1,145,October,869,20661587.32,0,Q4,6.76849321164863,Sunshine_Abuja
+Royal Stallion,Basmati,19870.3,Lagos,Nigeria,2,1,March,232,4609909.6,1,Q1,5.4510384535657,Royal Stallion_Lagos
+Golden Harvest,Local,13942.97,Lagos,Nigeria,4,90,September,728,10150482.16,0,Q3,6.591673732008658,Golden Harvest_Lagos
+Caprice,Basmati,14739.78,Lagos,Nigeria,3,61,March,641,9448198.98,1,Q1,6.464588303689961,Caprice_Lagos
+King's Pride,Basmati,18802.21,Accra,Ghana,3,65,February,437,8216565.77,1,Q1,6.082218910376446,King's Pride_Accra
+Sunshine,Long Grain,9667.98,Accra,Ghana,3,220,October,277,2678030.46,0,Q4,5.627621113690637,Sunshine_Accra
+Caprice,Local,21812.24,Lagos,Nigeria,5,61,May,786,17144420.64,0,Q2,6.668228248417403,Caprice_Lagos
+Caprice,Long Grain,9690.94,Accra,Ghana,4,283,December,284,2752226.96,0,Q4,5.652489180268651,Caprice_Accra
+Uncle Sam,Local,12657.75,Lagos,Nigeria,4,144,June,68,860727.0,0,Q2,4.23410650459726,Uncle Sam_Lagos
+Mama Gold,Basmati,13963.21,Kumasi,Ghana,3,151,July,966,13488460.86,1,Q3,6.874198495453294,Mama Gold_Kumasi
+Tommy Tasty,Basmati,9939.03,Abuja,Nigeria,3,240,March,104,1033659.1200000001,1,Q1,4.653960350157523,Tommy Tasty_Abuja
+Caprice,Long Grain,14593.37,Lagos,Nigeria,3,104,October,425,6202182.25,0,Q4,6.054439346269371,Caprice_Lagos
+Caprice,Long Grain,24711.0,Abuja,Nigeria,4,211,May,55,1359105.0,0,Q2,4.02535169073515,Caprice_Abuja
+King's Pride,Local,20610.3,Lagos,Nigeria,5,184,November,977,20136263.099999998,0,Q4,6.885509670034818,King's Pride_Lagos
+Golden Harvest,Local,16324.31,Abuja,Nigeria,3,271,June,982,16030472.42,0,Q2,6.890609120147166,Golden Harvest_Abuja
+Caprice,Long Grain,15748.5,Abuja,Nigeria,2,51,May,249,3921376.5,0,Q2,5.521460917862246,Caprice_Abuja
+Golden Harvest,Long Grain,23426.18,Lagos,Nigeria,3,87,October,969,22699968.42,0,Q4,6.877296071497429,Golden Harvest_Lagos
+Uncle Sam,Basmati,16415.68727272727,Accra,Ghana,2,291,August,816,13395200.814545453,1,Q3,6.705639094860003,Uncle Sam_Accra
+Golden Harvest,Basmati,21483.83,Kumasi,Ghana,4,81,February,880,18905770.400000002,1,Q1,6.78105762593618,Golden Harvest_Kumasi
+Sunshine,Long Grain,21536.62,Lagos,Nigeria,2,59,November,832,17918467.84,0,Q4,6.725033642166843,Sunshine_Lagos
+Sunshine,Basmati,8245.9,Abuja,Nigeria,5,182,March,159,1311098.0999999999,1,Q1,5.075173815233827,Sunshine_Abuja
+Sunshine,Basmati,10757.87,Abuja,Nigeria,1,49,February,294,3162813.7800000003,1,Q1,5.68697535633982,Sunshine_Abuja
+King's Pride,Basmati,21654.04,Kumasi,Ghana,3,113,July,676,14638131.040000001,1,Q3,6.517671272912275,King's Pride_Kumasi
+Sunshine,Local,12514.2,Lagos,Nigeria,3,222,August,717,8972681.4,0,Q3,6.576469569048224,Sunshine_Lagos
+Royal Stallion,Local,8992.19,Accra,Ghana,4,248,July,52,467593.88,0,Q3,3.970291913552122,Royal Stallion_Accra
+Caprice,Local,14685.58,Kumasi,Ghana,4,259,January,963,14142213.54,0,Q1,6.871091294610546,Caprice_Kumasi
+Royal Stallion,Local,13487.78,Accra,Ghana,2,177,January,499,6730402.220000001,0,Q1,6.214608098422191,Royal Stallion_Accra
+Caprice,Local,23070.6,Accra,Ghana,1,137,December,686,15826431.6,0,Q4,6.532334292222349,Caprice_Accra
+Sunshine,Basmati,21049.6,Kumasi,Ghana,2,20,January,613,12903404.799999999,1,Q1,6.419994928147142,Sunshine_Kumasi
+Royal Stallion,Local,10025.22,Accra,Ghana,2,185,November,186,1864690.92,0,Q4,5.231108616854587,Royal Stallion_Accra
+Caprice,Long Grain,10694.89,Kumasi,Ghana,4,36,September,644,6887509.159999999,0,Q3,6.4692503167957724,Caprice_Kumasi
+Uncle Sam,Long Grain,16190.267368421053,Accra,Ghana,1,194,February,769,12450315.60631579,0,Q1,6.646390514847729,Uncle Sam_Accra
+Caprice,Long Grain,17450.25,Lagos,Nigeria,1,67,October,828,14448807.0,0,Q4,6.720220155135295,Caprice_Lagos
+Golden Harvest,Long Grain,10843.43,Lagos,Nigeria,1,125,March,161,1745792.23,0,Q1,5.087596335232384,Golden Harvest_Lagos
+Sunshine,Local,22447.87,Abuja,Nigeria,5,56,December,277,6218059.989999999,0,Q4,5.627621113690637,Sunshine_Abuja
+Caprice,Long Grain,8511.38,Accra,Ghana,4,254,August,404,3438597.5199999996,0,Q3,6.003887067106539,Caprice_Accra
+Golden Harvest,Basmati,10748.49,Accra,Ghana,5,285,August,455,4890562.95,1,Q3,6.1224928095143865,Golden Harvest_Accra
+King's Pride,Basmati,13084.34,Abuja,Nigeria,4,40,April,660,8635664.4,1,Q2,6.493753839851687,King's Pride_Abuja
+Uncle Sam,Long Grain,9411.86,Lagos,Nigeria,5,230,May,119,1120011.34,0,Q2,4.787491742782046,Uncle Sam_Lagos
+Sunshine,Local,24421.01,Abuja,Nigeria,2,44,January,133,3247994.3299999996,0,Q1,4.897839799950911,Sunshine_Abuja
+Uncle Sam,Local,20512.43,Accra,Ghana,5,42,September,305,6256291.15,0,Q3,5.723585101952381,Uncle Sam_Accra
+Royal Stallion,Local,14131.05,Abuja,Nigeria,2,272,July,703,9934128.15,0,Q3,6.556778356158042,Royal Stallion_Abuja
+Golden Harvest,Long Grain,14935.1,Abuja,Nigeria,5,238,December,931,13904578.1,0,Q4,6.837332814685591,Golden Harvest_Abuja
+Mama Gold,Local,18551.82,Accra,Ghana,3,208,December,590,10945573.8,0,Q4,6.3818160174060985,Mama Gold_Accra
+Royal Stallion,Long Grain,18897.92,Lagos,Nigeria,2,240,May,329,6217415.68,0,Q2,5.799092654460526,Royal Stallion_Lagos
+Uncle Sam,Basmati,13953.34,Abuja,Nigeria,3,51,August,658,9181297.72,1,Q3,6.490723534502507,Uncle Sam_Abuja
+Golden Harvest,Basmati,24717.48,Kumasi,Ghana,5,127,December,107,2644770.36,1,Q4,4.68213122712422,Golden Harvest_Kumasi
+Mama Gold,Basmati,13000.42,Abuja,Nigeria,4,177,February,387,5031162.54,1,Q1,5.961005339623274,Mama Gold_Abuja
+King's Pride,Local,16095.53,Accra,Ghana,1,89,March,656,10558667.68,0,Q1,6.487684018484611,King's Pride_Accra
+Caprice,Long Grain,13981.06,Kumasi,Ghana,2,24,August,813,11366601.78,0,Q3,6.70196036600254,Caprice_Kumasi
+Mama Gold,Local,16052.5,Lagos,Nigeria,2,216,July,667,10707017.5,0,Q3,6.504288173536645,Mama Gold_Lagos
+Uncle Sam,Long Grain,11192.63,Abuja,Nigeria,2,42,February,352,3939805.76,0,Q1,5.8664680569332965,Uncle Sam_Abuja
+Royal Stallion,Basmati,15240.5,Kumasi,Ghana,1,100,February,596,9083338.0,1,Q1,6.391917113392602,Royal Stallion_Kumasi
+Royal Stallion,Basmati,16456.76,Abuja,Nigeria,2,291,October,498,8195466.4799999995,1,Q4,6.212606095751519,Royal Stallion_Abuja
+Uncle Sam,Basmati,13481.03,Kumasi,Ghana,2,213,December,897,12092483.91,1,Q4,6.8001700683022,Uncle Sam_Kumasi
+Royal Stallion,Basmati,18427.1,Accra,Ghana,5,86,October,659,12143458.899999999,1,Q4,6.492239835020471,Royal Stallion_Accra
+Royal Stallion,Long Grain,20744.02,Lagos,Nigeria,5,276,June,744,15433550.88,0,Q2,6.61338421837956,Royal Stallion_Lagos
+Golden Harvest,Basmati,16110.96,Abuja,Nigeria,3,182,April,633,10198237.68,1,Q2,6.452048954437226,Golden Harvest_Abuja
+Sunshine,Basmati,23331.08,Kumasi,Ghana,5,133,April,514,11992175.120000001,1,Q2,6.244166900663736,Sunshine_Kumasi
+Caprice,Basmati,20348.53,Lagos,Nigeria,2,264,February,824,16767188.719999999,1,Q1,6.715383386334681,Caprice_Lagos
+Sunshine,Long Grain,22844.17,Accra,Ghana,3,185,January,553,12632826.01,0,Q1,6.317164686747284,Sunshine_Accra
+King's Pride,Long Grain,10401.85,Abuja,Nigeria,3,127,March,287,2985330.95,0,Q1,5.662960480135946,King's Pride_Abuja
+Uncle Sam,Local,15525.36,Kumasi,Ghana,2,218,January,376,5837535.36,0,Q1,5.932245187448011,Uncle Sam_Kumasi
+Uncle Sam,Long Grain,9003.35,Kumasi,Ghana,3,55,November,333,2998115.5500000003,0,Q4,5.8111409929767,Uncle Sam_Kumasi
+Royal Stallion,Long Grain,17043.05,Abuja,Nigeria,3,221,March,567,9663409.35,0,Q1,6.342121418721152,Royal Stallion_Abuja
+Uncle Sam,Local,17003.14,Kumasi,Ghana,5,87,February,824,14010587.36,0,Q1,6.715383386334681,Uncle Sam_Kumasi
+Mama Gold,Basmati,24806.7,Lagos,Nigeria,5,142,August,481,11932022.700000001,1,Q3,6.1779441140506,Mama Gold_Lagos
+Tommy Tasty,Local,17001.08,Kumasi,Ghana,5,96,December,575,9775621.000000002,0,Q4,6.3561076606958915,Tommy Tasty_Kumasi
+Uncle Sam,Long Grain,16612.62,Lagos,Nigeria,4,262,April,936,15549412.319999998,0,Q2,6.842683282238422,Uncle Sam_Lagos
+Golden Harvest,Basmati,24925.14,Kumasi,Ghana,3,3,February,570,14207329.799999999,1,Q1,6.3473892096560105,Golden Harvest_Kumasi
+Tommy Tasty,Basmati,23351.01,Abuja,Nigeria,4,84,November,614,14337520.139999999,1,Q4,6.421622267806518,Tommy Tasty_Abuja
+Tommy Tasty,Basmati,12696.67,Kumasi,Ghana,4,96,September,924,11731723.08,1,Q3,6.829793737512425,Tommy Tasty_Kumasi
+Uncle Sam,Long Grain,16190.267368421053,Accra,Ghana,5,284,February,966,15639798.277894737,0,Q1,6.874198495453294,Uncle Sam_Accra
+Caprice,Long Grain,16401.32,Kumasi,Ghana,1,230,December,754,12366595.28,0,Q4,6.626717749249025,Caprice_Kumasi
+Sunshine,Basmati,10223.09,Kumasi,Ghana,1,257,February,649,6634785.41,1,Q1,6.476972362889683,Sunshine_Kumasi
+Uncle Sam,Basmati,20852.4,Lagos,Nigeria,2,27,May,644,13428945.600000001,1,Q2,6.4692503167957724,Uncle Sam_Lagos
+Tommy Tasty,Basmati,11089.34,Abuja,Nigeria,2,193,April,858,9514653.72,1,Q2,6.755768921984256,Tommy Tasty_Abuja
+Golden Harvest,Local,22170.87,Abuja,Nigeria,3,174,February,703,15586121.61,0,Q1,6.556778356158042,Golden Harvest_Abuja
+Caprice,Local,15620.16,Kumasi,Ghana,1,59,February,307,4795389.12,0,Q1,5.730099782973575,Caprice_Kumasi
+Sunshine,Local,14979.21,Kumasi,Ghana,1,242,April,480,7190020.8,0,Q2,6.175867270105761,Sunshine_Kumasi
+Royal Stallion,Basmati,14207.81,Kumasi,Ghana,3,20,August,388,5512630.28,1,Q3,5.963579343618446,Royal Stallion_Kumasi
+Caprice,Basmati,24302.71,Kumasi,Ghana,4,109,October,116,2819114.36,1,Q4,4.762173934797756,Caprice_Kumasi
+Sunshine,Basmati,10590.6,Kumasi,Ghana,2,207,November,602,6375541.2,1,Q4,6.401917196727186,Sunshine_Kumasi
+Sunshine,Long Grain,22971.81,Kumasi,Ghana,4,95,March,737,16930223.970000003,0,Q1,6.6039438246004725,Sunshine_Kumasi
+Caprice,Basmati,23229.94,Abuja,Nigeria,3,66,April,132,3066352.0799999996,1,Q2,4.890349128221754,Caprice_Abuja
+Mama Gold,Local,14740.18,Accra,Ghana,1,271,May,672,9905400.96,0,Q2,6.511745329644728,Mama Gold_Accra
+Sunshine,Long Grain,19663.81,Accra,Ghana,4,177,September,475,9340309.75,0,Q3,6.16541785423142,Sunshine_Accra
+Royal Stallion,Long Grain,19267.34,Accra,Ghana,3,7,December,101,1946001.34,0,Q4,4.624972813284271,Royal Stallion_Accra
+Sunshine,Long Grain,9425.22,Kumasi,Ghana,3,245,March,339,3195149.5799999996,0,Q1,5.8289456176102075,Sunshine_Kumasi
+King's Pride,Long Grain,8341.06,Kumasi,Ghana,2,126,October,570,4754404.199999999,0,Q4,6.3473892096560105,King's Pride_Kumasi
+Mama Gold,Long Grain,10685.4,Kumasi,Ghana,5,243,November,534,5706003.6,0,Q4,6.282266746896006,Mama Gold_Kumasi
+Mama Gold,Long Grain,24182.47,Abuja,Nigeria,3,28,June,816,19732895.52,0,Q2,6.705639094860003,Mama Gold_Abuja
+Mama Gold,Long Grain,17105.83,Abuja,Nigeria,1,186,September,629,10759567.07,0,Q3,6.4457198193855785,Mama Gold_Abuja
+Tommy Tasty,Local,24732.76,Lagos,Nigeria,2,94,December,927,22927268.52,0,Q4,6.833031732786201,Tommy Tasty_Lagos
+Uncle Sam,Long Grain,16190.267368421053,Accra,Ghana,2,225,October,288,4662797.002105263,0,Q4,5.666426688112432,Uncle Sam_Accra
+Caprice,Local,14598.09,Abuja,Nigeria,5,11,December,800,11678472.0,0,Q4,6.68586094706836,Caprice_Abuja
+Royal Stallion,Local,12012.55,Kumasi,Ghana,2,205,April,894,10739219.7,0,Q2,6.796823718274855,Royal Stallion_Kumasi
+Royal Stallion,Long Grain,16770.98,Kumasi,Ghana,3,6,February,442,7412773.16,0,Q1,6.093569770045136,Royal Stallion_Kumasi
+Mama Gold,Basmati,23638.85,Accra,Ghana,4,58,November,466,11015704.1,1,Q4,6.1463292576688975,Mama Gold_Accra
+Mama Gold,Long Grain,23243.1,Abuja,Nigeria,2,256,April,95,2208094.5,0,Q2,4.564348191467836,Mama Gold_Abuja
+Royal Stallion,Local,8331.95,Lagos,Nigeria,1,157,May,162,1349775.9000000001,0,Q2,5.093750200806762,Royal Stallion_Lagos
+King's Pride,Basmati,17489.02,Kumasi,Ghana,1,262,July,496,8674553.92,1,Q3,6.208590026096629,King's Pride_Kumasi
+Mama Gold,Basmati,11178.91,Accra,Ghana,5,43,November,803,8976664.73,1,Q4,6.6895992691789665,Mama Gold_Accra
+Royal Stallion,Local,9978.56,Abuja,Nigeria,4,99,June,697,6955056.319999999,0,Q2,6.548219102762372,Royal Stallion_Abuja
+Mama Gold,Long Grain,23834.24,Accra,Ghana,5,46,October,440,10487065.600000001,0,Q4,6.089044875446846,Mama Gold_Accra
+Tommy Tasty,Local,8645.0,Kumasi,Ghana,1,115,January,984,8506680.0,0,Q1,6.892641641172089,Tommy Tasty_Kumasi
+Golden Harvest,Long Grain,14203.46,Abuja,Nigeria,5,289,April,985,13990408.1,0,Q2,6.893656354602635,Golden Harvest_Abuja
+Golden Harvest,Local,14411.54,Lagos,Nigeria,4,294,December,407,5865496.78,0,Q4,6.0112671744041615,Golden Harvest_Lagos
+Tommy Tasty,Basmati,22284.81,Abuja,Nigeria,4,201,December,325,7242563.25,1,Q4,5.786897381366708,Tommy Tasty_Abuja
+Sunshine,Basmati,23193.11,Abuja,Nigeria,3,88,May,321,7444988.3100000005,1,Q2,5.7745515455444085,Sunshine_Abuja
+Golden Harvest,Basmati,12558.39,Lagos,Nigeria,4,38,April,181,2273068.59,1,Q2,5.204006687076795,Golden Harvest_Lagos
+Uncle Sam,Local,16050.87,Lagos,Nigeria,2,110,November,715,11476372.05,0,Q4,6.573680166960646,Uncle Sam_Lagos
+King's Pride,Local,8780.3,Abuja,Nigeria,5,295,February,300,2634090.0,0,Q1,5.707110264748875,King's Pride_Abuja
+Caprice,Basmati,13560.51,Lagos,Nigeria,5,86,October,280,3796942.8000000003,1,Q4,5.638354669333745,Caprice_Lagos
+Mama Gold,Basmati,23223.74,Accra,Ghana,1,205,November,67,1555990.58,1,Q4,4.219507705176107,Mama Gold_Accra
+King's Pride,Long Grain,12677.27,Accra,Ghana,3,131,April,982,12449079.14,0,Q2,6.890609120147166,King's Pride_Accra
+Mama Gold,Long Grain,23161.84,Lagos,Nigeria,2,284,October,461,10677608.24,0,Q4,6.135564891081739,Mama Gold_Lagos
+King's Pride,Long Grain,9655.14,Lagos,Nigeria,3,37,November,336,3244127.04,0,Q4,5.820082930352362,King's Pride_Lagos
+Caprice,Long Grain,18366.8,Accra,Ghana,2,131,November,68,1248942.4,0,Q4,4.23410650459726,Caprice_Accra
+Uncle Sam,Local,8500.88,Lagos,Nigeria,5,148,May,365,3102821.1999999997,0,Q2,5.902633333401366,Uncle Sam_Lagos
+Golden Harvest,Long Grain,12550.61,Kumasi,Ghana,3,168,December,968,12148990.48,0,Q4,6.876264611890766,Golden Harvest_Kumasi
+Uncle Sam,Basmati,18813.18,Lagos,Nigeria,2,173,March,659,12397885.620000001,1,Q1,6.492239835020471,Uncle Sam_Lagos
+Golden Harvest,Basmati,21040.75,Abuja,Nigeria,1,101,April,543,11425127.25,1,Q2,6.298949246855942,Golden Harvest_Abuja
+Uncle Sam,Long Grain,21018.54,Abuja,Nigeria,2,246,October,403,8470471.620000001,0,Q4,6.0014148779611505,Uncle Sam_Abuja
+Tommy Tasty,Long Grain,14773.25,Abuja,Nigeria,1,120,November,752,11109484.0,0,Q4,6.6240652277998935,Tommy Tasty_Abuja
+Caprice,Basmati,10120.67,Accra,Ghana,3,137,August,536,5424679.12,1,Q3,6.285998094508865,Caprice_Accra
+Caprice,Basmati,9209.15,Lagos,Nigeria,3,74,April,942,8675019.299999999,1,Q2,6.849066282633458,Caprice_Lagos
+Caprice,Long Grain,23576.12,Lagos,Nigeria,1,247,May,348,8204489.76,0,Q2,5.855071922202427,Caprice_Lagos
+Royal Stallion,Long Grain,19850.88,Accra,Ghana,4,203,November,427,8476325.76,0,Q4,6.059123195581797,Royal Stallion_Accra
+Sunshine,Local,10324.55,Lagos,Nigeria,5,100,August,809,8352560.949999999,0,Q3,6.697034247666484,Sunshine_Lagos
+Golden Harvest,Long Grain,17104.45,Kumasi,Ghana,5,274,June,713,12195472.85,0,Q2,6.570882962339584,Golden Harvest_Kumasi
+Caprice,Basmati,16900.06153846154,Accra,Ghana,1,269,July,405,6844524.923076924,1,Q3,6.0063531596017325,Caprice_Accra
+Uncle Sam,Long Grain,22715.83,Lagos,Nigeria,5,88,February,765,17377609.950000003,0,Q1,6.641182169740591,Uncle Sam_Lagos
+Royal Stallion,Basmati,23423.11,Lagos,Nigeria,5,157,April,99,2318887.89,1,Q2,4.605170185988092,Royal Stallion_Lagos
+Mama Gold,Local,24610.69,Lagos,Nigeria,4,121,December,878,21608185.82,0,Q4,6.778784897685177,Mama Gold_Lagos
+Golden Harvest,Basmati,19376.69,Abuja,Nigeria,1,222,October,413,8002572.97,1,Q4,6.025865973825314,Golden Harvest_Abuja
+Sunshine,Local,8056.47,Kumasi,Ghana,4,30,August,359,2892272.73,0,Q3,5.886104031450156,Sunshine_Kumasi
+Uncle Sam,Long Grain,23442.86,Kumasi,Ghana,5,185,September,91,2133300.2600000002,0,Q3,4.5217885770490405,Uncle Sam_Kumasi
+Sunshine,Local,10004.43,Kumasi,Ghana,3,278,May,372,3721647.96,0,Q2,5.921578419643816,Sunshine_Kumasi
+Mama Gold,Basmati,20823.56,Accra,Ghana,2,137,October,902,18782851.12,1,Q4,6.805722553416985,Mama Gold_Accra
+Sunshine,Basmati,10025.76,Kumasi,Ghana,4,274,February,568,5694631.68,1,Q1,6.343880434126331,Sunshine_Kumasi
+Tommy Tasty,Local,16223.01,Lagos,Nigeria,2,73,July,640,10382726.4,0,Q3,6.46302945692067,Tommy Tasty_Lagos
+Royal Stallion,Basmati,12712.86,Lagos,Nigeria,2,102,March,648,8237933.28,1,Q1,6.47543271670409,Royal Stallion_Lagos
+Sunshine,Local,21234.26,Abuja,Nigeria,1,118,August,55,1167884.2999999998,0,Q3,4.02535169073515,Sunshine_Abuja
+Golden Harvest,Local,23247.64,Kumasi,Ghana,4,72,July,974,22643201.36,0,Q3,6.882437470997847,Golden Harvest_Kumasi
+Caprice,Local,13015.13,Kumasi,Ghana,4,167,July,268,3488054.84,0,Q3,5.594711379601839,Caprice_Kumasi
+Tommy Tasty,Long Grain,17916.51,Kumasi,Ghana,1,167,December,742,13294050.419999998,0,Q4,6.610696044717759,Tommy Tasty_Kumasi
+Mama Gold,Local,20352.43,Abuja,Nigeria,1,262,October,299,6085376.57,0,Q4,5.703782474656201,Mama Gold_Abuja
+Uncle Sam,Basmati,11132.76,Kumasi,Ghana,4,162,August,261,2905650.36,1,Q3,5.568344503761097,Uncle Sam_Kumasi
+King's Pride,Long Grain,15355.41,Kumasi,Ghana,2,0,February,387,5942543.67,0,Q1,5.961005339623274,King's Pride_Kumasi
+Caprice,Basmati,15896.45,Kumasi,Ghana,3,274,February,843,13400707.350000001,1,Q1,6.738152494595957,Caprice_Kumasi
+Royal Stallion,Long Grain,10931.76,Accra,Ghana,1,297,October,308,3366982.08,0,Q4,5.733341276897746,Royal Stallion_Accra
+Tommy Tasty,Local,22431.63,Kumasi,Ghana,2,142,February,740,16599406.200000001,0,Q1,6.608000625296087,Tommy Tasty_Kumasi
+Mama Gold,Long Grain,15061.742999999999,Accra,Ghana,3,82,March,806,12139764.858,0,Q1,6.693323668269949,Mama Gold_Accra
+King's Pride,Local,23026.54,Lagos,Nigeria,2,89,August,612,14092242.48,0,Q3,6.418364935936212,King's Pride_Lagos
+Caprice,Local,21447.67,Kumasi,Ghana,4,169,February,765,16407467.549999999,0,Q1,6.641182169740591,Caprice_Kumasi
+Golden Harvest,Local,21259.24,Accra,Ghana,1,40,May,921,19579760.040000003,0,Q2,6.826545223556594,Golden Harvest_Accra
+Caprice,Long Grain,12080.8,Abuja,Nigeria,2,226,February,976,11790860.799999999,0,Q1,6.884486652042782,Caprice_Abuja
+Tommy Tasty,Basmati,10731.45,Abuja,Nigeria,2,86,September,325,3487721.2500000005,1,Q3,5.786897381366708,Tommy Tasty_Abuja
+Caprice,Long Grain,13277.07,Accra,Ghana,1,117,September,943,12520277.01,0,Q3,6.8501261661455,Caprice_Accra
+Royal Stallion,Basmati,24346.85,Abuja,Nigeria,2,212,March,263,6403221.55,1,Q1,5.575949103146316,Royal Stallion_Abuja
+Uncle Sam,Basmati,16415.68727272727,Accra,Ghana,4,124,October,113,1854972.6618181816,1,Q4,4.736198448394496,Uncle Sam_Accra
+Mama Gold,Long Grain,11763.68,Kumasi,Ghana,3,220,November,66,776402.88,0,Q4,4.204692619390966,Mama Gold_Kumasi
+Mama Gold,Basmati,14075.66,Lagos,Nigeria,1,285,January,71,999371.86,1,Q1,4.276666119016055,Mama Gold_Lagos
+Mama Gold,Local,21910.59,Lagos,Nigeria,5,223,June,550,12050824.5,0,Q2,6.311734809152915,Mama Gold_Lagos
+Tommy Tasty,Basmati,21060.26,Kumasi,Ghana,3,118,May,296,6233836.96,1,Q2,5.6937321388027,Tommy Tasty_Kumasi
+Mama Gold,Long Grain,15061.742999999999,Accra,Ghana,2,63,March,944,14218285.391999999,0,Q1,6.851184927493743,Mama Gold_Accra
+King's Pride,Local,22001.03,Kumasi,Ghana,4,137,October,840,18480865.2,0,Q4,6.734591659972948,King's Pride_Kumasi
+Golden Harvest,Basmati,23322.85,Lagos,Nigeria,3,89,October,781,18215145.849999998,1,Q4,6.661854740545311,Golden Harvest_Lagos
+Tommy Tasty,Long Grain,15952.22,Accra,Ghana,4,37,August,832,13272247.04,0,Q3,6.725033642166843,Tommy Tasty_Accra
+Uncle Sam,Local,20206.89,Abuja,Nigeria,1,277,January,405,8183790.45,0,Q1,6.0063531596017325,Uncle Sam_Abuja
+Golden Harvest,Local,13624.53,Kumasi,Ghana,1,277,February,968,13188545.040000001,0,Q1,6.876264611890766,Golden Harvest_Kumasi
+Tommy Tasty,Long Grain,16824.057647058824,Accra,Ghana,5,229,May,703,11827312.525882354,0,Q2,6.556778356158042,Tommy Tasty_Accra
+Golden Harvest,Long Grain,8802.76,Lagos,Nigeria,1,214,April,362,3186599.12,0,Q2,5.8944028342648505,Golden Harvest_Lagos
+Mama Gold,Long Grain,13891.34,Abuja,Nigeria,4,207,May,370,5139795.8,0,Q2,5.916202062607435,Mama Gold_Abuja
+Mama Gold,Long Grain,12424.73,Kumasi,Ghana,1,287,July,761,9455219.53,0,Q3,6.635946555686647,Mama Gold_Kumasi
+Tommy Tasty,Long Grain,14064.19,Abuja,Nigeria,1,34,July,316,4444284.04,0,Q3,5.75890177387728,Tommy Tasty_Abuja
+Caprice,Long Grain,11288.77,Lagos,Nigeria,1,116,June,125,1411096.25,0,Q2,4.836281906951478,Caprice_Lagos
+Caprice,Local,17397.12588235294,Accra,Ghana,1,264,October,867,15083308.139999999,0,Q4,6.7661917146603505,Caprice_Accra
+Uncle Sam,Long Grain,12078.24,Abuja,Nigeria,2,115,July,684,8261516.16,0,Q3,6.529418838262226,Uncle Sam_Abuja
+Mama Gold,Local,21032.84,Kumasi,Ghana,3,146,June,157,3302155.88,0,Q2,5.062595033026967,Mama Gold_Kumasi
+Royal Stallion,Long Grain,23157.59,Kumasi,Ghana,5,47,March,405,9378823.95,0,Q1,6.0063531596017325,Royal Stallion_Kumasi
+King's Pride,Basmati,19451.88,Abuja,Nigeria,3,231,May,734,14277679.92,1,Q2,6.5998704992128365,King's Pride_Abuja
+King's Pride,Local,16309.178125,Accra,Ghana,1,110,December,274,4468714.80625,0,Q4,5.616771097666572,King's Pride_Accra
+King's Pride,Basmati,10826.57,Kumasi,Ghana,2,64,October,542,5868000.9399999995,1,Q4,6.297109319933935,King's Pride_Kumasi
+Sunshine,Local,16457.08,Kumasi,Ghana,5,262,March,176,2896446.08,0,Q1,5.176149732573829,Sunshine_Kumasi
+Tommy Tasty,Basmati,15689.978260869566,Accra,Ghana,1,98,April,254,3985254.4782608696,1,Q2,5.541263545158426,Tommy Tasty_Accra
+Sunshine,Local,19224.94,Lagos,Nigeria,5,2,February,953,18321367.82,0,Q1,6.860663671448287,Sunshine_Lagos
+Royal Stallion,Basmati,17924.66,Kumasi,Ghana,4,248,December,54,967931.64,1,Q4,4.007333185232471,Royal Stallion_Kumasi
+Caprice,Long Grain,10909.6,Accra,Ghana,1,186,February,827,9022239.200000001,0,Q1,6.71901315438526,Caprice_Accra
+Caprice,Basmati,11218.67,Kumasi,Ghana,2,150,June,781,8761781.27,1,Q2,6.661854740545311,Caprice_Kumasi
+Golden Harvest,Long Grain,13025.38,Lagos,Nigeria,1,206,July,279,3634081.0199999996,0,Q3,5.634789603169249,Golden Harvest_Lagos
+Golden Harvest,Local,15624.49,Abuja,Nigeria,3,48,June,890,13905796.1,0,Q2,6.792344427470809,Golden Harvest_Abuja
+Tommy Tasty,Local,20129.7,Lagos,Nigeria,1,276,November,491,9883682.700000001,0,Q4,6.198478716492308,Tommy Tasty_Lagos
+Golden Harvest,Local,19795.09,Lagos,Nigeria,5,217,October,688,13619021.92,0,Q4,6.535241271013659,Golden Harvest_Lagos
+Royal Stallion,Basmati,11615.63,Lagos,Nigeria,2,250,September,137,1591341.3099999998,1,Q3,4.927253685157205,Royal Stallion_Lagos
+Sunshine,Basmati,24113.7,Accra,Ghana,5,263,November,478,11526348.6,1,Q4,6.171700597410915,Sunshine_Accra
+Uncle Sam,Long Grain,8172.74,Abuja,Nigeria,4,248,June,230,1879730.2,0,Q2,5.442417710521793,Uncle Sam_Abuja
+Uncle Sam,Local,22757.97,Kumasi,Ghana,5,229,February,867,19731159.990000002,0,Q1,6.7661917146603505,Uncle Sam_Kumasi
+Mama Gold,Local,17313.99653846154,Accra,Ghana,3,156,June,395,6839028.632692308,0,Q2,5.981414211254481,Mama Gold_Accra
+Uncle Sam,Local,14703.56,Lagos,Nigeria,4,33,May,621,9130910.76,0,Q2,6.432940092739179,Uncle Sam_Lagos
+Caprice,Basmati,16016.01,Kumasi,Ghana,2,40,January,101,1617617.01,1,Q1,4.624972813284271,Caprice_Kumasi
+Caprice,Local,9632.75,Accra,Ghana,4,267,December,259,2494882.25,0,Q4,5.560681631015528,Caprice_Accra
+Tommy Tasty,Basmati,21129.53,Abuja,Nigeria,3,72,November,941,19882887.73,1,Q4,6.848005274576363,Tommy Tasty_Abuja
+Royal Stallion,Local,13413.96,Abuja,Nigeria,1,103,July,852,11428693.92,0,Q3,6.748759547491679,Royal Stallion_Abuja
+Sunshine,Long Grain,11345.98,Lagos,Nigeria,2,192,September,917,10404263.66,0,Q3,6.822197390620491,Sunshine_Lagos
+Sunshine,Basmati,17432.33,Lagos,Nigeria,2,176,February,674,11749390.420000002,1,Q1,6.51471269087253,Sunshine_Lagos
+Sunshine,Local,8795.91,Accra,Ghana,1,197,February,56,492570.95999999996,0,Q1,4.04305126783455,Sunshine_Accra
+Caprice,Basmati,10307.86,Lagos,Nigeria,1,91,April,968,9978008.48,1,Q2,6.876264611890766,Caprice_Lagos
+Tommy Tasty,Local,20231.18,Accra,Ghana,4,237,March,777,15719626.86,0,Q1,6.656726524178391,Tommy Tasty_Accra
+Uncle Sam,Basmati,22654.64,Kumasi,Ghana,5,189,January,971,21997655.439999998,1,Q1,6.879355804460439,Uncle Sam_Kumasi
+Mama Gold,Local,24624.72,Lagos,Nigeria,1,85,June,242,5959182.24,0,Q2,5.493061443340548,Mama Gold_Lagos
+Mama Gold,Local,18851.35,Accra,Ghana,1,246,August,834,15722025.899999999,0,Q3,6.727431724850855,Mama Gold_Accra
+Caprice,Basmati,18822.65,Abuja,Nigeria,3,147,November,592,11143008.8,1,Q4,6.385194398997726,Caprice_Abuja
+Golden Harvest,Long Grain,20910.13,Lagos,Nigeria,1,257,March,943,19718252.59,0,Q1,6.8501261661455,Golden Harvest_Lagos
+Caprice,Local,14009.19,Kumasi,Ghana,1,122,February,848,11879793.120000001,0,Q1,6.744059186311348,Caprice_Kumasi
+Golden Harvest,Local,12194.21,Kumasi,Ghana,4,120,December,227,2768085.67,0,Q4,5.429345628954441,Golden Harvest_Kumasi
+Golden Harvest,Basmati,8982.09,Accra,Ghana,5,63,July,592,5317397.28,1,Q3,6.385194398997726,Golden Harvest_Accra
+Golden Harvest,Long Grain,23827.69,Lagos,Nigeria,5,184,September,387,9221316.03,0,Q3,5.961005339623274,Golden Harvest_Lagos
+Royal Stallion,Long Grain,11522.74,Abuja,Nigeria,5,99,June,803,9252760.22,0,Q2,6.6895992691789665,Royal Stallion_Abuja
+King's Pride,Long Grain,24294.62,Lagos,Nigeria,2,96,May,758,18415321.96,0,Q2,6.6320017773956295,King's Pride_Lagos
+Mama Gold,Local,8383.94,Lagos,Nigeria,2,119,October,713,5977749.220000001,0,Q4,6.570882962339584,Mama Gold_Lagos
+Tommy Tasty,Long Grain,15499.63,Abuja,Nigeria,4,101,February,479,7424322.77,0,Q1,6.173786103901937,Tommy Tasty_Abuja
+Tommy Tasty,Basmati,21241.61,Abuja,Nigeria,1,290,December,845,17949160.45,1,Q4,6.740519359606223,Tommy Tasty_Abuja
+King's Pride,Local,13637.82,Kumasi,Ghana,2,124,September,681,9287355.42,0,Q3,6.525029657843462,King's Pride_Kumasi
+Tommy Tasty,Local,21328.62,Accra,Ghana,1,219,September,205,4372367.1,0,Q3,5.327876168789581,Tommy Tasty_Accra
+Golden Harvest,Basmati,11585.51,Accra,Ghana,5,206,April,818,9476947.18,1,Q2,6.70808408385307,Golden Harvest_Accra
+Golden Harvest,Basmati,11604.73,Abuja,Nigeria,4,198,February,204,2367364.92,1,Q1,5.3230099791384085,Golden Harvest_Abuja
+Uncle Sam,Long Grain,17972.57,Lagos,Nigeria,5,101,March,787,14144412.59,0,Q1,6.669498089857879,Uncle Sam_Lagos
+Mama Gold,Basmati,18964.46,Accra,Ghana,5,130,November,280,5310048.8,1,Q4,5.638354669333745,Mama Gold_Accra
+Royal Stallion,Local,9375.45,Kumasi,Ghana,2,267,November,64,600028.8,0,Q4,4.174387269895637,Royal Stallion_Kumasi
+Mama Gold,Basmati,22826.59,Accra,Ghana,3,286,June,885,20201532.15,1,Q2,6.786716950605081,Mama Gold_Accra
+Sunshine,Long Grain,8691.15,Accra,Ghana,2,278,November,866,7526535.899999999,0,Q4,6.7650389767805414,Sunshine_Accra
+King's Pride,Basmati,11891.86,Abuja,Nigeria,1,24,July,153,1819454.58,1,Q3,5.0369526024136295,King's Pride_Abuja
+Golden Harvest,Local,19947.37,Kumasi,Ghana,1,198,May,545,10871316.65,0,Q2,6.302618975744905,Golden Harvest_Kumasi
+Uncle Sam,Local,10065.39,Kumasi,Ghana,1,182,October,164,1650723.96,0,Q4,5.10594547390058,Uncle Sam_Kumasi
+Sunshine,Long Grain,18933.97,Accra,Ghana,1,262,October,389,7365314.33,0,Q4,5.966146739123692,Sunshine_Accra
+Uncle Sam,Long Grain,12869.57,Kumasi,Ghana,4,263,April,913,11749917.41,0,Q2,6.81783057145415,Uncle Sam_Kumasi
+Sunshine,Long Grain,10280.79,Abuja,Nigeria,5,151,August,567,5829207.930000001,0,Q3,6.342121418721152,Sunshine_Abuja
+Sunshine,Basmati,17231.11,Abuja,Nigeria,3,177,July,213,3670226.43,1,Q3,5.365976015021851,Sunshine_Abuja
+Sunshine,Basmati,9274.49,Kumasi,Ghana,4,51,June,698,6473594.02,1,Q2,6.54965074223381,Sunshine_Kumasi
+Golden Harvest,Local,19478.38,Abuja,Nigeria,1,177,April,715,13927041.700000001,0,Q2,6.573680166960646,Golden Harvest_Abuja
+Caprice,Basmati,10641.85,Lagos,Nigeria,4,256,December,79,840706.15,1,Q4,4.382026634673881,Caprice_Lagos
+Sunshine,Long Grain,21372.01,Accra,Ghana,3,181,March,384,8206851.84,0,Q1,5.953243334287785,Sunshine_Accra
+Royal Stallion,Basmati,9912.24,Kumasi,Ghana,3,251,July,366,3627879.84,1,Q3,5.905361848054571,Royal Stallion_Kumasi
+Tommy Tasty,Local,16793.16,Accra,Ghana,2,295,March,549,9219444.84,0,Q1,6.309918278226516,Tommy Tasty_Accra
+Mama Gold,Local,23533.34,Lagos,Nigeria,4,234,August,234,5506801.56,0,Q3,5.459585514144159,Mama Gold_Lagos
+Tommy Tasty,Long Grain,17534.0,Accra,Ghana,4,78,July,785,13764190.0,0,Q3,6.666956792429207,Tommy Tasty_Accra
+Caprice,Basmati,12195.86,Kumasi,Ghana,5,240,March,303,3695345.58,1,Q1,5.717027701406222,Caprice_Kumasi
+Sunshine,Basmati,22510.61,Abuja,Nigeria,3,225,June,376,8463989.36,1,Q2,5.932245187448011,Sunshine_Abuja
+Royal Stallion,Long Grain,14488.96,Lagos,Nigeria,2,138,June,574,8316663.039999999,0,Q2,6.354370040797351,Royal Stallion_Lagos
+Tommy Tasty,Local,20229.68,Abuja,Nigeria,2,88,June,152,3074911.36,0,Q2,5.030437921392435,Tommy Tasty_Abuja
+Uncle Sam,Long Grain,12678.98,Lagos,Nigeria,4,28,March,902,11436439.959999999,0,Q1,6.805722553416985,Uncle Sam_Lagos
+Uncle Sam,Local,21530.22,Abuja,Nigeria,2,153,March,620,13348736.4,0,Q1,6.431331081933479,Uncle Sam_Abuja
+Uncle Sam,Local,18872.12,Abuja,Nigeria,5,257,May,939,17720920.68,0,Q2,6.84587987526405,Uncle Sam_Abuja
+Mama Gold,Local,8732.93,Lagos,Nigeria,2,54,September,293,2558748.49,0,Q3,5.683579767338681,Mama Gold_Lagos
+Golden Harvest,Local,8735.72,Abuja,Nigeria,4,248,August,240,2096572.7999999998,0,Q3,5.484796933490655,Golden Harvest_Abuja
+Royal Stallion,Basmati,9699.06,Accra,Ghana,1,170,April,237,2298677.2199999997,1,Q2,5.472270673671475,Royal Stallion_Accra
+Mama Gold,Long Grain,16233.73,Accra,Ghana,5,274,July,981,15925289.129999999,0,Q3,6.889591308354466,Mama Gold_Accra
+Caprice,Long Grain,8464.97,Accra,Ghana,2,165,May,766,6484167.02,0,Q2,6.642486801367256,Caprice_Accra
+King's Pride,Local,12169.06,Accra,Ghana,1,284,October,418,5086667.08,0,Q4,6.037870919922137,King's Pride_Accra
+Golden Harvest,Basmati,15936.07,Accra,Ghana,2,203,July,977,15569540.39,1,Q3,6.885509670034818,Golden Harvest_Accra
+Golden Harvest,Long Grain,18608.28,Kumasi,Ghana,5,37,January,690,12839713.2,0,Q1,6.53813982376767,Golden Harvest_Kumasi
+Sunshine,Long Grain,9998.11,Abuja,Nigeria,1,0,September,964,9638178.040000001,0,Q3,6.872128101338986,Sunshine_Abuja
+Royal Stallion,Long Grain,16492.745,Accra,Ghana,4,98,April,85,1401883.325,0,Q2,4.454347296253507,Royal Stallion_Accra
+Royal Stallion,Long Grain,14238.41,Abuja,Nigeria,5,84,April,62,882781.42,0,Q2,4.143134726391533,Royal Stallion_Abuja
+Uncle Sam,Long Grain,19011.69,Lagos,Nigeria,1,231,December,571,10855674.989999998,0,Q4,6.349138991379798,Uncle Sam_Lagos
+Tommy Tasty,Long Grain,17058.24,Accra,Ghana,5,202,December,415,7079169.600000001,0,Q4,6.030685260261263,Tommy Tasty_Accra
+Caprice,Local,23623.67,Accra,Ghana,5,117,March,570,13465491.899999999,0,Q1,6.3473892096560105,Caprice_Accra
+Mama Gold,Local,17391.26,Kumasi,Ghana,2,88,April,167,2904340.42,0,Q2,5.123963979403259,Mama Gold_Kumasi
+Tommy Tasty,Local,22734.81,Lagos,Nigeria,3,7,June,880,20006632.8,0,Q2,6.78105762593618,Tommy Tasty_Lagos
+Uncle Sam,Local,13677.03,Lagos,Nigeria,4,276,October,211,2885853.33,0,Q4,5.356586274672012,Uncle Sam_Lagos
+Royal Stallion,Long Grain,20202.12,Kumasi,Ghana,1,27,January,189,3818200.6799999997,0,Q1,5.247024072160486,Royal Stallion_Kumasi
+Caprice,Long Grain,21566.6,Accra,Ghana,2,49,September,81,1746894.5999999999,0,Q3,4.406719247264253,Caprice_Accra
+King's Pride,Basmati,15685.28,Kumasi,Ghana,3,256,July,474,7434822.720000001,1,Q3,6.163314804034641,King's Pride_Kumasi
+King's Pride,Local,10665.27,Lagos,Nigeria,5,52,October,166,1770434.82,0,Q4,5.117993812416755,King's Pride_Lagos
+Caprice,Basmati,22689.7,Kumasi,Ghana,1,35,August,673,15270168.1,1,Q3,6.513230110912307,Caprice_Kumasi
+Sunshine,Basmati,9757.03,Abuja,Nigeria,3,162,November,623,6078629.69,1,Q4,6.436150368369428,Sunshine_Abuja
+Golden Harvest,Local,22616.12,Lagos,Nigeria,5,107,February,493,11149747.16,0,Q1,6.202535517187923,Golden Harvest_Lagos
+Uncle Sam,Long Grain,13558.75,Kumasi,Ghana,4,207,August,748,10141945.0,0,Q3,6.618738983517219,Uncle Sam_Kumasi
+Golden Harvest,Long Grain,14497.73,Lagos,Nigeria,1,3,February,966,14004807.18,0,Q1,6.874198495453294,Golden Harvest_Lagos
+Sunshine,Long Grain,13152.97,Lagos,Nigeria,4,300,November,374,4919210.779999999,0,Q4,5.926926025970411,Sunshine_Lagos
+Golden Harvest,Local,14485.51,Abuja,Nigeria,4,137,March,802,11617379.02,0,Q1,6.688354713946762,Golden Harvest_Abuja
+Golden Harvest,Basmati,15014.0,Accra,Ghana,2,283,November,369,5540166.0,1,Q4,5.91350300563827,Golden Harvest_Accra
+King's Pride,Long Grain,8292.98,Accra,Ghana,1,179,November,411,3408414.78,0,Q4,6.021023349349527,King's Pride_Accra
+Tommy Tasty,Local,18506.795,Accra,Ghana,1,145,January,276,5107875.42,0,Q1,5.6240175061873385,Tommy Tasty_Accra
+King's Pride,Basmati,9147.15,Accra,Ghana,3,274,June,135,1234865.25,1,Q2,4.912654885736052,King's Pride_Accra
+Golden Harvest,Basmati,14700.59,Kumasi,Ghana,5,59,April,753,11069544.27,1,Q2,6.625392368007956,Golden Harvest_Kumasi
+King's Pride,Long Grain,18982.77,Abuja,Nigeria,4,282,June,536,10174764.72,0,Q2,6.285998094508865,King's Pride_Abuja
+Tommy Tasty,Basmati,21951.14,Lagos,Nigeria,3,79,August,560,12292638.4,1,Q3,6.329720905522696,Tommy Tasty_Lagos
+Caprice,Local,17397.12588235294,Accra,Ghana,3,197,November,73,1269990.1894117645,0,Q4,4.304065093204169,Caprice_Accra
+Sunshine,Basmati,24296.83,Lagos,Nigeria,5,212,July,707,17177858.810000002,1,Q3,6.56244409369372,Sunshine_Lagos
+Uncle Sam,Long Grain,24361.94,Lagos,Nigeria,1,11,April,791,19270294.54,0,Q2,6.674561391814426,Uncle Sam_Lagos
+Golden Harvest,Local,14485.51,Abuja,Nigeria,4,137,March,802,11617379.02,0,Q1,6.688354713946762,Golden Harvest_Abuja
+Golden Harvest,Basmati,15014.0,Accra,Ghana,2,283,November,369,5540166.0,1,Q4,5.91350300563827,Golden Harvest_Accra
+King's Pride,Long Grain,8292.98,Accra,Ghana,1,179,November,411,3408414.78,0,Q4,6.021023349349527,King's Pride_Accra
+Tommy Tasty,Local,18506.795,Accra,Ghana,1,145,January,276,5107875.42,0,Q1,5.6240175061873385,Tommy Tasty_Accra
+Sunshine,Local,12151.41,Kumasi,Ghana,1,35,July,426,5176500.66,0,Q3,6.056784013228625,Sunshine_Kumasi
+Sunshine,Local,22672.09,Kumasi,Ghana,5,44,August,492,11154668.28,0,Q3,6.20050917404269,Sunshine_Kumasi
+Uncle Sam,Basmati,15235.48,Kumasi,Ghana,1,278,June,916,13955699.68,1,Q2,6.821107472256465,Uncle Sam_Kumasi
+Uncle Sam,Basmati,17989.23,Kumasi,Ghana,5,26,October,993,17863305.39,1,Q4,6.901737206656574,Uncle Sam_Kumasi
+King's Pride,Basmati,12091.96,Lagos,Nigeria,4,97,November,922,11148787.12,1,Q4,6.827629234502852,King's Pride_Lagos
+Caprice,Long Grain,12370.2,Lagos,Nigeria,3,50,April,800,9896160.0,0,Q2,6.68586094706836,Caprice_Lagos
+Uncle Sam,Basmati,16299.85,Accra,Ghana,5,276,March,558,9095316.3,1,Q1,6.326149473155099,Uncle Sam_Accra
+Royal Stallion,Long Grain,17895.77,Accra,Ghana,5,6,October,625,11184856.25,0,Q4,6.439350371100098,Royal Stallion_Accra
+Mama Gold,Long Grain,15061.742999999999,Accra,Ghana,4,193,November,947,14263470.621,0,Q4,6.854354502255021,Mama Gold_Accra
+Tommy Tasty,Long Grain,24409.76,Accra,Ghana,4,122,February,614,14987592.639999999,0,Q1,6.421622267806518,Tommy Tasty_Accra
+Uncle Sam,Basmati,21420.57,Abuja,Nigeria,4,296,July,484,10367555.879999999,1,Q3,6.184148890937483,Uncle Sam_Abuja
+Mama Gold,Long Grain,15061.742999999999,Accra,Ghana,4,156,July,987,14865940.340999998,0,Q3,6.895682697747868,Mama Gold_Accra
+Mama Gold,Basmati,15620.39,Accra,Ghana,5,9,March,83,1296492.3699999999,1,Q1,4.430816798843313,Mama Gold_Accra
+Golden Harvest,Long Grain,18304.86,Lagos,Nigeria,1,41,May,524,9591746.64,0,Q2,6.263398262591624,Golden Harvest_Lagos
+Mama Gold,Basmati,24422.05,Abuja,Nigeria,2,180,May,916,22370597.8,1,Q2,6.821107472256465,Mama Gold_Abuja
+Royal Stallion,Long Grain,11975.51,Kumasi,Ghana,3,73,June,466,5580587.66,0,Q2,6.1463292576688975,Royal Stallion_Kumasi
+Mama Gold,Long Grain,18779.53,Kumasi,Ghana,4,25,November,126,2366220.78,0,Q4,4.844187086458591,Mama Gold_Kumasi
+Royal Stallion,Local,11761.434444444443,Accra,Ghana,4,233,October,493,5798387.18111111,0,Q4,6.202535517187923,Royal Stallion_Accra
+Golden Harvest,Local,13415.57,Accra,Ghana,1,271,December,730,9793366.1,0,Q4,6.594413459749778,Golden Harvest_Accra
+Golden Harvest,Local,9078.26,Accra,Ghana,3,262,December,119,1080312.94,0,Q4,4.787491742782046,Golden Harvest_Accra
+Golden Harvest,Local,18187.51,Kumasi,Ghana,3,195,February,933,16968946.83,0,Q1,6.839476438228843,Golden Harvest_Kumasi
+King's Pride,Long Grain,14618.2,Abuja,Nigeria,2,63,April,704,10291212.8,0,Q2,6.558197802812269,King's Pride_Abuja
+Sunshine,Long Grain,15434.83,Lagos,Nigeria,1,120,July,893,13783303.19,0,Q3,6.795705775173515,Sunshine_Lagos
+Caprice,Basmati,11277.24,Lagos,Nigeria,5,157,March,324,3653825.76,1,Q1,5.783825182329737,Caprice_Lagos
+Uncle Sam,Local,16634.640555555558,Accra,Ghana,1,146,August,991,16484928.790555557,0,Q3,6.899723107284872,Uncle Sam_Accra
+Mama Gold,Local,22669.43,Accra,Ghana,1,79,December,501,11357384.43,0,Q4,6.218600119691729,Mama Gold_Accra
+Mama Gold,Basmati,12910.1,Abuja,Nigeria,3,164,July,59,761695.9,1,Q3,4.0943445622221,Mama Gold_Abuja
+King's Pride,Local,22024.71,Accra,Ghana,4,18,August,57,1255408.47,0,Q3,4.060443010546419,King's Pride_Accra
+Royal Stallion,Basmati,15330.59,Kumasi,Ghana,2,217,February,326,4997772.34,1,Q1,5.7899601708972535,Royal Stallion_Kumasi
+King's Pride,Long Grain,18539.25,Abuja,Nigeria,2,109,October,73,1353365.25,0,Q4,4.304065093204169,King's Pride_Abuja
+King's Pride,Basmati,23362.97,Abuja,Nigeria,3,110,April,360,8410669.200000001,1,Q2,5.8888779583328805,King's Pride_Abuja
+Sunshine,Basmati,9418.75,Kumasi,Ghana,1,214,June,551,5189731.25,1,Q2,6.313548046277095,Sunshine_Kumasi
+Uncle Sam,Basmati,18495.06,Abuja,Nigeria,2,16,December,675,12484165.5,1,Q4,6.516193076042964,Uncle Sam_Abuja
+King's Pride,Basmati,10496.2,Abuja,Nigeria,2,204,March,809,8491425.8,1,Q1,6.697034247666484,King's Pride_Abuja
+Royal Stallion,Basmati,10646.07,Accra,Ghana,3,252,May,692,7367080.4399999995,1,Q2,6.541029999189903,Royal Stallion_Accra
+Tommy Tasty,Local,12160.87,Lagos,Nigeria,3,120,October,69,839100.03,0,Q4,4.248495242049359,Tommy Tasty_Lagos
+King's Pride,Basmati,15128.41,Lagos,Nigeria,4,250,February,244,3691332.04,1,Q1,5.501258210544727,King's Pride_Lagos
+Sunshine,Basmati,12679.46,Abuja,Nigeria,1,175,February,629,7975380.34,1,Q1,6.4457198193855785,Sunshine_Abuja
+King's Pride,Local,16309.178125,Accra,Ghana,1,293,May,939,15314318.259375,0,Q2,6.84587987526405,King's Pride_Accra
+Sunshine,Basmati,23129.07,Abuja,Nigeria,1,237,June,961,22227036.27,1,Q2,6.8690144506657065,Sunshine_Abuja
+King's Pride,Local,16309.178125,Accra,Ghana,3,33,June,436,7110801.662500001,0,Q2,6.07993319509559,King's Pride_Accra
+Royal Stallion,Basmati,11464.43,Abuja,Nigeria,1,237,May,795,9114221.85,1,Q2,6.679599185844383,Royal Stallion_Abuja
+Caprice,Basmati,24265.92,Accra,Ghana,3,50,August,892,21645200.639999997,1,Q3,6.794586580876499,Caprice_Accra
+Tommy Tasty,Local,23005.51,Kumasi,Ghana,4,12,January,891,20497909.41,0,Q1,6.79346613258001,Tommy Tasty_Kumasi
+Caprice,Local,17397.12588235294,Accra,Ghana,2,118,September,76,1322181.5670588233,0,Q3,4.343805421853684,Caprice_Accra
+Sunshine,Basmati,17987.51,Abuja,Nigeria,1,236,March,299,5378265.489999999,1,Q1,5.703782474656201,Sunshine_Abuja
+Uncle Sam,Basmati,10548.7,Kumasi,Ghana,5,116,March,553,5833431.100000001,1,Q1,6.317164686747284,Uncle Sam_Kumasi
+Royal Stallion,Local,14131.6,Kumasi,Ghana,2,35,December,523,7390826.8,0,Q4,6.261491684321042,Royal Stallion_Kumasi
+Caprice,Basmati,21384.95,Kumasi,Ghana,4,281,February,537,11483718.15,1,Q1,6.2878585601617845,Caprice_Kumasi
+Royal Stallion,Basmati,20837.04,Kumasi,Ghana,2,248,May,903,18815847.12,1,Q2,6.806829360392176,Royal Stallion_Kumasi
+Mama Gold,Long Grain,8922.46,Abuja,Nigeria,4,124,August,183,1632810.18,0,Q3,5.214935757608986,Mama Gold_Abuja
+Tommy Tasty,Basmati,24215.03,Abuja,Nigeria,2,173,March,858,20776495.74,1,Q1,6.755768921984256,Tommy Tasty_Abuja
+Tommy Tasty,Long Grain,17626.23,Lagos,Nigeria,4,211,October,125,2203278.75,0,Q4,4.836281906951478,Tommy Tasty_Lagos
+Uncle Sam,Long Grain,21334.11,Lagos,Nigeria,3,280,November,217,4629501.87,0,Q4,5.384495062789089,Uncle Sam_Lagos
+King's Pride,Basmati,21466.73,Lagos,Nigeria,4,11,October,902,19362990.46,1,Q4,6.805722553416985,King's Pride_Lagos
+Uncle Sam,Basmati,10547.77,Lagos,Nigeria,4,186,August,235,2478725.95,1,Q3,5.4638318050256105,Uncle Sam_Lagos
+King's Pride,Basmati,15441.346666666666,Accra,Ghana,4,206,July,202,3119152.0266666664,1,Q3,5.313205979041787,King's Pride_Accra
+Mama Gold,Local,12582.69,Lagos,Nigeria,3,130,September,764,9613175.16,0,Q3,6.639875833826536,Mama Gold_Lagos
+Golden Harvest,Local,21055.31,Abuja,Nigeria,3,61,December,868,18276009.080000002,0,Q4,6.767343125265392,Golden Harvest_Abuja
+Uncle Sam,Basmati,22255.45,Lagos,Nigeria,1,245,February,770,17136696.5,1,Q1,6.647688373563329,Uncle Sam_Lagos
+Sunshine,Local,14756.73,Abuja,Nigeria,3,119,February,766,11303655.18,0,Q1,6.642486801367256,Sunshine_Abuja
+Mama Gold,Long Grain,15061.742999999999,Accra,Ghana,4,49,May,358,5392103.994,0,Q2,5.883322388488279,Mama Gold_Accra
+Tommy Tasty,Long Grain,16282.88,Kumasi,Ghana,2,178,June,494,8043742.72,0,Q2,6.20455776256869,Tommy Tasty_Kumasi
+Tommy Tasty,Local,14969.9,Abuja,Nigeria,3,150,November,418,6257418.2,0,Q4,6.037870919922137,Tommy Tasty_Abuja
+Tommy Tasty,Basmati,8562.28,Accra,Ghana,3,197,May,994,8510906.32,1,Q2,6.902742737158593,Tommy Tasty_Accra
+Sunshine,Long Grain,19428.9,Lagos,Nigeria,1,105,November,208,4041211.2,0,Q4,5.342334251964811,Sunshine_Lagos
+Tommy Tasty,Basmati,9089.45,Abuja,Nigeria,5,235,December,659,5989947.550000001,1,Q4,6.492239835020471,Tommy Tasty_Abuja
+King's Pride,Local,18537.93,Kumasi,Ghana,5,244,November,636,11790123.48,0,Q4,6.456769655572163,King's Pride_Kumasi
+Golden Harvest,Long Grain,20918.09,Kumasi,Ghana,3,194,September,309,6463689.81,0,Q3,5.736572297479192,Golden Harvest_Kumasi
+Tommy Tasty,Local,20431.95,Kumasi,Ghana,2,245,April,462,9439560.9,0,Q2,6.137727054086234,Tommy Tasty_Kumasi
+Tommy Tasty,Basmati,14981.75,Abuja,Nigeria,1,161,January,428,6412189.0,1,Q1,6.061456918928017,Tommy Tasty_Abuja
+Sunshine,Basmati,21115.75,Lagos,Nigeria,3,110,January,198,4180918.5,1,Q1,5.293304824724492,Sunshine_Lagos
+Mama Gold,Local,10832.4,Accra,Ghana,1,106,February,946,10247450.4,0,Q1,6.853299093186078,Mama Gold_Accra
+King's Pride,Long Grain,14181.367142857143,Accra,Ghana,4,188,April,82,1162872.1057142857,0,Q2,4.418840607796598,King's Pride_Accra
+Mama Gold,Local,14236.48,Kumasi,Ghana,3,153,May,347,4940058.56,0,Q2,5.8522024797744745,Mama Gold_Kumasi
+Caprice,Long Grain,16397.64,Kumasi,Ghana,5,259,January,832,13642836.48,0,Q1,6.725033642166843,Caprice_Kumasi
+Golden Harvest,Local,12702.2,Abuja,Nigeria,3,121,February,825,10479315.0,0,Q1,6.716594773520978,Golden Harvest_Abuja
+Caprice,Local,22586.75,Lagos,Nigeria,2,21,April,351,7927949.25,0,Q2,5.863631175598097,Caprice_Lagos
+Mama Gold,Local,19029.05,Kumasi,Ghana,1,11,May,796,15147123.799999999,0,Q2,6.680854678790215,Mama Gold_Kumasi
+Tommy Tasty,Long Grain,19889.35,Abuja,Nigeria,3,56,November,404,8035297.399999999,0,Q4,6.003887067106539,Tommy Tasty_Abuja
+Caprice,Long Grain,19111.69,Kumasi,Ghana,2,23,August,547,10454094.43,0,Q3,6.306275286948016,Caprice_Kumasi
+Sunshine,Long Grain,13802.19,Lagos,Nigeria,3,87,August,588,8115687.720000001,0,Q3,6.3784261836515865,Sunshine_Lagos
+Uncle Sam,Local,15265.45,Abuja,Nigeria,1,285,August,649,9907277.05,0,Q3,6.476972362889683,Uncle Sam_Abuja
+Uncle Sam,Basmati,10548.7,Kumasi,Ghana,5,116,March,553,5833431.100000001,1,Q1,6.317164686747284,Uncle Sam_Kumasi
+Royal Stallion,Local,14131.6,Kumasi,Ghana,2,35,December,523,7390826.8,0,Q4,6.261491684321042,Royal Stallion_Kumasi
+Caprice,Basmati,21384.95,Kumasi,Ghana,4,281,February,537,11483718.15,1,Q1,6.2878585601617845,Caprice_Kumasi
+Royal Stallion,Basmati,20837.04,Kumasi,Ghana,2,248,May,903,18815847.12,1,Q2,6.806829360392176,Royal Stallion_Kumasi
+Mama Gold,Long Grain,8922.46,Abuja,Nigeria,4,124,August,183,1632810.18,0,Q3,5.214935757608986,Mama Gold_Abuja
+Tommy Tasty,Long Grain,9732.88,Accra,Ghana,2,129,October,333,3241049.0399999996,0,Q4,5.8111409929767,Tommy Tasty_Accra
+Uncle Sam,Basmati,23236.22,Kumasi,Ghana,2,227,November,988,22957385.36,1,Q4,6.8966943316227125,Uncle Sam_Kumasi
+King's Pride,Local,16309.178125,Accra,Ghana,3,145,January,272,4436096.45,0,Q1,5.60947179518496,King's Pride_Accra
+Golden Harvest,Basmati,21103.81,Kumasi,Ghana,5,90,December,166,3503232.4600000004,1,Q4,5.117993812416755,Golden Harvest_Kumasi
+Golden Harvest,Long Grain,21291.6,Accra,Ghana,4,292,June,581,12370419.6,0,Q2,6.366470447731438,Golden Harvest_Accra
+Sunshine,Long Grain,17524.202083333334,Accra,Ghana,4,266,October,777,13616305.01875,0,Q4,6.656726524178391,Sunshine_Accra
+Caprice,Local,23695.29,Accra,Ghana,5,35,January,569,13482620.01,0,Q1,6.345636360828596,Caprice_Accra
+Royal Stallion,Basmati,14612.79,Abuja,Nigeria,5,145,September,185,2703366.1500000004,1,Q3,5.225746673713202,Royal Stallion_Abuja
+Caprice,Long Grain,15881.89,Accra,Ghana,3,22,July,712,11307905.68,0,Q3,6.569481420414296,Caprice_Accra
+Caprice,Basmati,24500.9,Kumasi,Ghana,2,62,September,870,21315783.0,1,Q3,6.769641976852503,Caprice_Kumasi
+Golden Harvest,Basmati,13610.92,Kumasi,Ghana,5,102,February,248,3375508.16,1,Q1,5.517452896464707,Golden Harvest_Kumasi
+Caprice,Long Grain,18536.55,Kumasi,Ghana,5,87,August,428,7933643.399999999,0,Q3,6.061456918928017,Caprice_Kumasi
+Royal Stallion,Basmati,14242.18,Accra,Ghana,1,270,October,724,10311338.32,1,Q4,6.586171654854675,Royal Stallion_Accra
+Royal Stallion,Local,11761.434444444443,Accra,Ghana,4,30,April,129,1517225.0433333332,0,Q2,4.867534450455582,Royal Stallion_Accra
+Royal Stallion,Local,8714.44,Abuja,Nigeria,3,154,December,733,6387684.5200000005,0,Q4,6.598509028614515,Royal Stallion_Abuja
+Royal Stallion,Basmati,12921.74,Accra,Ghana,1,159,October,245,3165826.3,1,Q4,5.5053315359323625,Royal Stallion_Accra
+Caprice,Basmati,23576.5,Accra,Ghana,3,180,September,290,6837185.0,1,Q3,5.673323267171493,Caprice_Accra
+Tommy Tasty,Basmati,15292.6,Abuja,Nigeria,3,274,April,487,7447496.2,1,Q2,6.1903154058531475,Tommy Tasty_Abuja
+Royal Stallion,Long Grain,16492.745,Accra,Ghana,5,3,November,680,11215066.6,0,Q4,6.523562306149512,Royal Stallion_Accra
+Sunshine,Long Grain,23456.7,Lagos,Nigeria,3,198,September,930,21814731.0,0,Q3,6.836259277277067,Sunshine_Lagos
+Royal Stallion,Local,16093.36,Kumasi,Ghana,3,71,February,692,11136605.120000001,0,Q1,6.541029999189903,Royal Stallion_Kumasi
+Tommy Tasty,Long Grain,16824.057647058824,Accra,Ghana,5,175,May,244,4105070.065882353,0,Q2,5.501258210544727,Tommy Tasty_Accra
+Caprice,Long Grain,16574.30794117647,Accra,Ghana,5,145,December,801,13276020.660882352,0,Q4,6.687108607866515,Caprice_Accra
+Sunshine,Long Grain,22656.19,Lagos,Nigeria,1,99,September,430,9742161.7,0,Q3,6.066108090103747,Sunshine_Lagos
+Uncle Sam,Local,18500.64,Abuja,Nigeria,1,43,October,470,8695300.799999999,0,Q4,6.154858094016418,Uncle Sam_Abuja
+Tommy Tasty,Basmati,9828.74,Kumasi,Ghana,4,15,March,188,1847803.1199999999,1,Q1,5.241747015059643,Tommy Tasty_Kumasi
+Golden Harvest,Basmati,21505.41,Kumasi,Ghana,5,166,January,410,8817218.1,1,Q1,6.018593214496234,Golden Harvest_Kumasi
+Uncle Sam,Local,12962.22,Kumasi,Ghana,5,69,October,592,7673634.239999999,0,Q4,6.385194398997726,Uncle Sam_Kumasi
+Golden Harvest,Long Grain,18464.29,Accra,Ghana,4,121,August,230,4246786.7,0,Q3,5.442417710521793,Golden Harvest_Accra
+Royal Stallion,Long Grain,24017.8,Abuja,Nigeria,2,241,August,737,17701118.599999998,0,Q3,6.6039438246004725,Royal Stallion_Abuja
+King's Pride,Local,15403.01,Kumasi,Ghana,4,112,March,861,13261991.61,0,Q1,6.759255270663693,King's Pride_Kumasi
+Sunshine,Long Grain,17524.202083333334,Accra,Ghana,2,203,April,970,16998476.020833332,0,Q2,6.878326468291325,Sunshine_Accra
+Golden Harvest,Long Grain,11753.88,Abuja,Nigeria,5,184,December,734,8627347.92,0,Q4,6.5998704992128365,Golden Harvest_Abuja
+Golden Harvest,Long Grain,10169.21,Accra,Ghana,5,217,August,801,8145537.209999999,0,Q3,6.687108607866515,Golden Harvest_Accra
+Tommy Tasty,Long Grain,16287.06,Lagos,Nigeria,3,217,June,343,5586461.58,0,Q2,5.840641657373398,Tommy Tasty_Lagos
+Uncle Sam,Basmati,19404.99,Kumasi,Ghana,4,33,October,154,2988368.4600000004,1,Q4,5.043425116919247,Uncle Sam_Kumasi
+King's Pride,Long Grain,17393.26,Abuja,Nigeria,1,83,February,534,9288000.84,0,Q1,6.282266746896006,King's Pride_Abuja
+Sunshine,Basmati,22997.7,Abuja,Nigeria,2,290,December,372,8555144.4,1,Q4,5.921578419643816,Sunshine_Abuja
+Uncle Sam,Basmati,21711.67,Kumasi,Ghana,2,17,June,372,8076741.239999999,1,Q2,5.921578419643816,Uncle Sam_Kumasi
+King's Pride,Local,16309.178125,Accra,Ghana,1,205,January,326,5316792.068750001,0,Q1,5.7899601708972535,King's Pride_Accra
+Caprice,Long Grain,16574.30794117647,Accra,Ghana,3,269,May,140,2320403.1117647057,0,Q2,4.948759890378168,Caprice_Accra
+Uncle Sam,Long Grain,16190.267368421053,Accra,Ghana,5,143,October,847,13713156.461052632,0,Q4,6.742880635791903,Uncle Sam_Accra
+Uncle Sam,Local,16910.46,Kumasi,Ghana,3,274,September,276,4667286.96,0,Q3,5.6240175061873385,Uncle Sam_Kumasi
+Golden Harvest,Basmati,12843.04,Accra,Ghana,5,180,March,694,8913069.76,1,Q1,6.543911845564792,Golden Harvest_Accra
+King's Pride,Local,15141.85,Lagos,Nigeria,2,95,January,993,15035857.05,0,Q1,6.901737206656574,King's Pride_Lagos
+King's Pride,Local,10363.52,Kumasi,Ghana,1,128,March,828,8580994.56,0,Q1,6.720220155135295,King's Pride_Kumasi
+Golden Harvest,Basmati,14404.19,Lagos,Nigeria,5,62,January,348,5012658.12,1,Q1,5.855071922202427,Golden Harvest_Lagos
+Caprice,Basmati,16953.15,Abuja,Nigeria,5,280,November,748,12680956.200000001,1,Q4,6.618738983517219,Caprice_Abuja
+Mama Gold,Long Grain,9573.3,Lagos,Nigeria,5,151,April,972,9305247.6,0,Q2,6.880384082186005,Mama Gold_Lagos
+Sunshine,Local,9898.98,Lagos,Nigeria,5,45,September,709,7018376.819999999,0,Q3,6.565264970035361,Sunshine_Lagos
+Mama Gold,Local,23650.98,Abuja,Nigeria,2,292,August,380,8987372.4,0,Q3,5.942799375126701,Mama Gold_Abuja
+Mama Gold,Long Grain,12448.48,Abuja,Nigeria,3,260,March,982,12224407.36,0,Q1,6.890609120147166,Mama Gold_Abuja
+Uncle Sam,Basmati,8443.55,Kumasi,Ghana,2,127,July,59,498169.44999999995,1,Q3,4.0943445622221,Uncle Sam_Kumasi
+Uncle Sam,Long Grain,23711.13,Accra,Ghana,5,274,September,576,13657610.88,0,Q3,6.3578422665081,Uncle Sam_Accra
+Caprice,Basmati,15154.67,Lagos,Nigeria,5,127,January,613,9289812.71,1,Q1,6.419994928147142,Caprice_Lagos
+Sunshine,Long Grain,12307.14,Abuja,Nigeria,5,184,June,289,3556763.46,0,Q2,5.66988092298052,Sunshine_Abuja
+Caprice,Local,13120.64,Kumasi,Ghana,5,147,June,495,6494716.8,0,Q2,6.206575926724928,Caprice_Kumasi
+Sunshine,Long Grain,22401.43,Lagos,Nigeria,2,8,February,920,20609315.6,0,Q1,6.825460036255307,Sunshine_Lagos
+Golden Harvest,Local,12480.96,Abuja,Nigeria,4,229,February,935,11669697.6,0,Q1,6.8416154764775925,Golden Harvest_Abuja
+Royal Stallion,Local,10921.13,Abuja,Nigeria,3,172,November,208,2271595.04,0,Q4,5.342334251964811,Royal Stallion_Abuja
+Royal Stallion,Long Grain,10731.29,Kumasi,Ghana,2,107,May,846,9078671.34,0,Q2,6.741700694652055,Royal Stallion_Kumasi
+Tommy Tasty,Basmati,16835.05,Accra,Ghana,5,180,March,84,1414144.2,1,Q1,4.442651256490317,Tommy Tasty_Accra
+Mama Gold,Local,11134.21,Lagos,Nigeria,2,259,October,933,10388217.93,0,Q4,6.839476438228843,Mama Gold_Lagos
+Golden Harvest,Local,20350.96,Kumasi,Ghana,1,118,January,357,7265292.72,0,Q1,5.8805329864007,Golden Harvest_Kumasi
+Mama Gold,Long Grain,19921.52,Accra,Ghana,5,226,April,599,11932990.48,0,Q2,6.396929655216146,Mama Gold_Accra
+Uncle Sam,Basmati,8966.62,Kumasi,Ghana,2,126,January,564,5057173.680000001,1,Q1,6.336825731146441,Uncle Sam_Kumasi
+Golden Harvest,Local,8550.2,Lagos,Nigeria,1,223,November,626,5352425.2,0,Q4,6.440946540632921,Golden Harvest_Lagos
+Sunshine,Local,13356.87,Abuja,Nigeria,1,161,October,183,2444307.21,0,Q4,5.214935757608986,Sunshine_Abuja
+Golden Harvest,Basmati,10529.58,Lagos,Nigeria,1,298,September,848,8929083.84,1,Q3,6.744059186311348,Golden Harvest_Lagos
+Royal Stallion,Local,10668.33,Abuja,Nigeria,2,98,January,469,5003446.77,0,Q1,6.152732694704104,Royal Stallion_Abuja
+Sunshine,Basmati,12612.78,Abuja,Nigeria,3,161,December,573,7227122.94,1,Q4,6.352629396319567,Sunshine_Abuja
+Royal Stallion,Basmati,8342.06,Abuja,Nigeria,2,84,August,265,2210645.9,1,Q3,5.583496308781699,Royal Stallion_Abuja
+Royal Stallion,Long Grain,11273.56,Kumasi,Ghana,1,151,October,358,4035934.48,0,Q4,5.883322388488279,Royal Stallion_Kumasi
+King's Pride,Basmati,11040.96,Lagos,Nigeria,5,214,March,493,5443193.279999999,1,Q1,6.202535517187923,King's Pride_Lagos
+King's Pride,Long Grain,14103.41,Kumasi,Ghana,5,209,April,163,2298855.83,0,Q2,5.099866427824199,King's Pride_Kumasi
+Tommy Tasty,Basmati,12565.88,Abuja,Nigeria,4,186,October,834,10479943.92,1,Q4,6.727431724850855,Tommy Tasty_Abuja
+Caprice,Long Grain,20967.85,Kumasi,Ghana,4,250,August,696,14593623.6,0,Q3,6.546785410760524,Caprice_Kumasi
+Uncle Sam,Basmati,10886.86,Kumasi,Ghana,1,83,December,83,903609.38,1,Q4,4.430816798843313,Uncle Sam_Kumasi
+Golden Harvest,Local,13153.35,Abuja,Nigeria,1,155,August,812,10680520.200000001,0,Q3,6.70073110954781,Golden Harvest_Abuja
+Royal Stallion,Long Grain,21581.31,Lagos,Nigeria,2,194,December,500,10790655.0,0,Q4,6.2166061010848646,Royal Stallion_Lagos
+Sunshine,Local,8714.25,Kumasi,Ghana,3,96,May,810,7058542.5,0,Q2,6.698268054115413,Sunshine_Kumasi
+Mama Gold,Basmati,12425.85,Kumasi,Ghana,2,41,August,819,10176771.15,1,Q3,6.709304340258299,Mama Gold_Kumasi
+Golden Harvest,Local,17049.77,Kumasi,Ghana,1,193,July,378,6444813.0600000005,0,Q3,5.937536205082426,Golden Harvest_Kumasi
+Sunshine,Basmati,22371.03,Accra,Ghana,5,43,March,944,21118252.32,1,Q1,6.851184927493743,Sunshine_Accra
+Mama Gold,Local,12377.46,Accra,Ghana,3,232,May,54,668382.84,0,Q2,4.007333185232471,Mama Gold_Accra
+Royal Stallion,Local,8035.85,Lagos,Nigeria,3,87,March,662,5319732.7,0,Q1,6.4967749901858625,Royal Stallion_Lagos
+Royal Stallion,Long Grain,18633.31,Lagos,Nigeria,5,14,August,397,7397424.07,0,Q3,5.986452005284438,Royal Stallion_Lagos
+Caprice,Long Grain,21846.37,Lagos,Nigeria,5,56,December,155,3386187.3499999996,0,Q4,5.049856007249537,Caprice_Lagos
+Sunshine,Local,16186.44,Accra,Ghana,3,268,May,837,13548050.280000001,0,Q2,6.731018100482083,Sunshine_Accra
+Tommy Tasty,Basmati,13244.57,Lagos,Nigeria,4,256,December,162,2145620.34,1,Q4,5.093750200806762,Tommy Tasty_Lagos
+Uncle Sam,Long Grain,14948.98,Lagos,Nigeria,1,160,November,220,3288775.6,0,Q4,5.3981627015177525,Uncle Sam_Lagos
+Mama Gold,Local,21919.76,Abuja,Nigeria,2,211,April,955,20933370.799999997,0,Q2,6.862757913051401,Mama Gold_Abuja
+Royal Stallion,Long Grain,12797.32,Abuja,Nigeria,4,245,February,327,4184723.64,0,Q1,5.793013608384144,Royal Stallion_Abuja
+King's Pride,Basmati,18339.59,Abuja,Nigeria,4,2,October,875,16047141.25,1,Q4,6.775366090936392,King's Pride_Abuja
+Caprice,Local,9812.07,Kumasi,Ghana,2,290,April,564,5534007.4799999995,0,Q2,6.336825731146441,Caprice_Kumasi
+Caprice,Long Grain,16504.39,Abuja,Nigeria,5,143,October,889,14672402.709999999,0,Q4,6.7912214627261855,Caprice_Abuja
+Mama Gold,Long Grain,17456.29,Lagos,Nigeria,1,178,February,949,16566019.21,0,Q1,6.856461984594587,Mama Gold_Lagos
+Tommy Tasty,Local,15059.86,Kumasi,Ghana,4,85,May,851,12815940.860000001,0,Q2,6.747586526829315,Tommy Tasty_Kumasi
+Tommy Tasty,Basmati,15950.42,Lagos,Nigeria,1,277,November,261,4163059.62,1,Q4,5.568344503761097,Tommy Tasty_Lagos
+Caprice,Local,22249.78,Lagos,Nigeria,1,299,September,537,11948131.86,0,Q3,6.2878585601617845,Caprice_Lagos
+Tommy Tasty,Long Grain,17356.71,Abuja,Nigeria,2,35,November,915,15881389.649999999,0,Q4,6.82001636467413,Tommy Tasty_Abuja
+Mama Gold,Long Grain,11382.35,Abuja,Nigeria,3,59,August,78,887823.3,0,Q3,4.3694478524670215,Mama Gold_Abuja
+Royal Stallion,Long Grain,15036.55,Abuja,Nigeria,1,109,August,567,8525723.85,0,Q3,6.342121418721152,Royal Stallion_Abuja
+Caprice,Long Grain,15545.97,Accra,Ghana,2,279,June,136,2114251.92,0,Q2,4.919980925828125,Caprice_Accra
+Mama Gold,Basmati,18231.99,Abuja,Nigeria,1,238,November,279,5086725.210000001,1,Q4,5.634789603169249,Mama Gold_Abuja
+King's Pride,Local,16309.178125,Accra,Ghana,2,164,February,125,2038647.265625,0,Q1,4.836281906951478,King's Pride_Accra
+Tommy Tasty,Long Grain,8805.99,Accra,Ghana,2,110,April,370,3258216.3,0,Q2,5.916202062607435,Tommy Tasty_Accra
+Tommy Tasty,Local,18506.795,Accra,Ghana,4,268,May,147,2720498.8649999998,0,Q2,4.997212273764115,Tommy Tasty_Accra
+Caprice,Long Grain,12358.46,Lagos,Nigeria,5,221,March,279,3448010.34,0,Q1,5.634789603169249,Caprice_Lagos
+Golden Harvest,Long Grain,9974.03,Kumasi,Ghana,4,63,August,477,4757612.3100000005,0,Q3,6.169610732491456,Golden Harvest_Kumasi
+Sunshine,Long Grain,19980.55,Abuja,Nigeria,3,243,December,150,2997082.5,0,Q4,5.017279836814924,Sunshine_Abuja
+King's Pride,Basmati,15441.346666666666,Accra,Ghana,3,185,February,129,1991933.72,1,Q1,4.867534450455582,King's Pride_Accra
+Sunshine,Local,9992.16,Accra,Ghana,2,286,April,877,8763124.32,0,Q2,6.777646593635117,Sunshine_Accra
+Golden Harvest,Long Grain,8074.12,Abuja,Nigeria,2,70,November,776,6265517.12,0,Q4,6.655440350367647,Golden Harvest_Abuja
+King's Pride,Long Grain,17590.94,Abuja,Nigeria,2,226,March,274,4819917.56,0,Q1,5.616771097666572,King's Pride_Abuja
+King's Pride,Local,17688.26,Kumasi,Ghana,4,236,December,873,15441850.979999999,0,Q4,6.773080375655535,King's Pride_Kumasi
+Caprice,Basmati,16136.65,Accra,Ghana,4,288,May,813,13119096.45,1,Q2,6.70196036600254,Caprice_Accra
+Mama Gold,Long Grain,8630.75,Abuja,Nigeria,1,173,November,425,3668068.75,0,Q4,6.054439346269371,Mama Gold_Abuja
+Tommy Tasty,Basmati,19463.38,Accra,Ghana,2,250,March,923,17964699.740000002,1,Q1,6.828712071641684,Tommy Tasty_Accra
+Mama Gold,Local,19195.26,Abuja,Nigeria,5,90,June,899,17256538.74,0,Q2,6.802394763324311,Mama Gold_Abuja
+Mama Gold,Basmati,14071.42,Accra,Ghana,2,130,May,288,4052568.96,1,Q2,5.666426688112432,Mama Gold_Accra
+Sunshine,Basmati,10515.09,Kumasi,Ghana,1,257,October,376,3953673.84,1,Q4,5.932245187448011,Sunshine_Kumasi
+Uncle Sam,Long Grain,13518.69,Abuja,Nigeria,1,185,August,383,5177658.2700000005,0,Q3,5.950642552587727,Uncle Sam_Abuja
+Caprice,Long Grain,16531.62,Lagos,Nigeria,2,22,October,937,15490127.94,0,Q4,6.843749949006225,Caprice_Lagos
+Caprice,Long Grain,24524.4,Abuja,Nigeria,5,64,September,130,3188172.0,0,Q3,4.875197323201151,Caprice_Abuja
+Uncle Sam,Basmati,24267.05,Kumasi,Ghana,2,185,January,145,3518722.25,1,Q1,4.983606621708336,Uncle Sam_Kumasi
+Royal Stallion,Basmati,18184.41,Abuja,Nigeria,3,142,April,635,11547100.35,1,Q2,6.455198563340122,Royal Stallion_Abuja
+Caprice,Long Grain,24411.65,Kumasi,Ghana,3,177,May,901,21994896.650000002,0,Q2,6.804614520062624,Caprice_Kumasi
+Sunshine,Long Grain,23848.99,Kumasi,Ghana,4,89,October,750,17886742.5,0,Q4,6.621405651764134,Sunshine_Kumasi
+Golden Harvest,Local,23796.3,Abuja,Nigeria,3,219,March,663,15776946.9,0,Q1,6.498282149476434,Golden Harvest_Abuja
+Mama Gold,Local,16737.46,Kumasi,Ghana,1,201,September,873,14611802.58,0,Q3,6.773080375655535,Mama Gold_Kumasi
+Royal Stallion,Basmati,21593.93,Accra,Ghana,2,71,May,960,20730172.8,1,Q2,6.8679744089702925,Royal Stallion_Accra
+Royal Stallion,Long Grain,24967.08,Lagos,Nigeria,1,258,January,635,15854095.8,0,Q1,6.455198563340122,Royal Stallion_Lagos
+Tommy Tasty,Basmati,12494.78,Lagos,Nigeria,2,207,June,441,5510197.98,1,Q2,6.091309882077698,Tommy Tasty_Lagos
+Sunshine,Long Grain,23603.06,Abuja,Nigeria,3,178,May,576,13595362.56,0,Q2,6.3578422665081,Sunshine_Abuja
+Sunshine,Basmati,17192.27,Lagos,Nigeria,5,8,March,495,8510173.65,1,Q1,6.206575926724928,Sunshine_Lagos
+Caprice,Basmati,18875.26,Accra,Ghana,2,123,December,562,10607896.12,1,Q4,6.333279628139691,Caprice_Accra
+Tommy Tasty,Long Grain,20019.3,Abuja,Nigeria,5,289,October,81,1621563.3,0,Q4,4.406719247264253,Tommy Tasty_Abuja
+Mama Gold,Local,8088.36,Lagos,Nigeria,4,33,September,69,558096.84,0,Q3,4.248495242049359,Mama Gold_Lagos
+King's Pride,Local,12205.44,Abuja,Nigeria,5,96,June,358,4369547.5200000005,0,Q2,5.883322388488279,King's Pride_Abuja
+Royal Stallion,Local,19565.03,Accra,Ghana,3,275,November,557,10897721.709999999,0,Q4,6.324358962381311,Royal Stallion_Accra
+Mama Gold,Basmati,19560.04,Kumasi,Ghana,5,290,December,168,3286086.72,1,Q4,5.1298987149230735,Mama Gold_Kumasi
+King's Pride,Basmati,14803.32,Abuja,Nigeria,3,196,July,429,6350624.28,1,Q3,6.063785208687608,King's Pride_Abuja
+King's Pride,Basmati,13181.75,Kumasi,Ghana,3,182,December,184,2425442.0,1,Q4,5.220355825078325,King's Pride_Kumasi
+Caprice,Local,13724.85,Accra,Ghana,5,87,December,689,9456421.65,0,Q4,6.536691597591305,Caprice_Accra
+Mama Gold,Basmati,14711.76,Accra,Ghana,3,4,June,218,3207163.68,1,Q2,5.389071729816501,Mama Gold_Accra
+Caprice,Long Grain,16464.49,Accra,Ghana,3,222,November,606,9977480.940000001,0,Q4,6.408528791059498,Caprice_Accra
+Mama Gold,Basmati,10019.74,Abuja,Nigeria,3,136,January,664,6653107.359999999,1,Q1,6.499787040655854,Mama Gold_Abuja
+Tommy Tasty,Long Grain,22800.78,Accra,Ghana,2,82,March,419,9553526.82,0,Q1,6.040254711277414,Tommy Tasty_Accra
+Caprice,Long Grain,21960.7,Lagos,Nigeria,2,175,August,569,12495638.3,0,Q3,6.345636360828596,Caprice_Lagos
+Mama Gold,Long Grain,8671.36,Kumasi,Ghana,2,228,July,828,7179886.08,0,Q3,6.720220155135295,Mama Gold_Kumasi
+King's Pride,Local,22596.28,Lagos,Nigeria,5,207,December,283,6394747.239999999,0,Q4,5.648974238161206,King's Pride_Lagos
+Caprice,Basmati,16900.06153846154,Accra,Ghana,5,235,April,982,16595860.430769233,1,Q2,6.890609120147166,Caprice_Accra
+Mama Gold,Basmati,18413.4,Abuja,Nigeria,3,2,September,664,12226497.600000001,1,Q3,6.499787040655854,Mama Gold_Abuja
+Mama Gold,Local,18941.78,Abuja,Nigeria,3,175,April,608,11516602.239999998,0,Q2,6.411818267709897,Mama Gold_Abuja
+Caprice,Local,19046.68,Lagos,Nigeria,5,283,June,71,1352314.28,0,Q2,4.276666119016055,Caprice_Lagos
+Sunshine,Basmati,15927.38,Kumasi,Ghana,4,89,October,667,10623562.459999999,1,Q4,6.504288173536645,Sunshine_Kumasi
+Sunshine,Basmati,20125.67,Lagos,Nigeria,2,138,January,593,11934522.309999999,1,Q1,6.386879319362645,Sunshine_Lagos
+Tommy Tasty,Basmati,15689.978260869566,Accra,Ghana,5,234,January,475,7452739.673913044,1,Q1,6.16541785423142,Tommy Tasty_Accra
+Caprice,Long Grain,23101.04,Kumasi,Ghana,3,166,March,88,2032891.52,0,Q1,4.48863636973214,Caprice_Kumasi
+Royal Stallion,Long Grain,10028.67,Lagos,Nigeria,5,258,February,733,7351015.11,0,Q1,6.598509028614515,Royal Stallion_Lagos
+Royal Stallion,Local,9695.77,Lagos,Nigeria,3,103,October,312,3025080.24,0,Q4,5.746203190540153,Royal Stallion_Lagos
+Uncle Sam,Local,23721.15,Lagos,Nigeria,5,84,July,415,9844277.25,0,Q3,6.030685260261263,Uncle Sam_Lagos
